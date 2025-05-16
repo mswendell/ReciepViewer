@@ -4,6 +4,7 @@ By pressing on any of the recipes, the user will be redirected to a detail view 
 The images displayed are each retrieved and cached by a background actor as the user navigates through the app.
 <img src="/Assets/mainmenu.png" align="center" height="400" width="200">
 <img src="/Assets/detail.png" align="center" height="400" width="200">
+<img src="/Assets/link.png" align="center" height="400" width="200">
 
 ### Focus Areas: What specific areas of the project did you prioritize? Why did you choose to focus on these areas?
 I prioritized the need for the project to have cached information and the ability for it to load images only when needed. It took a while to figure out the implementation with 

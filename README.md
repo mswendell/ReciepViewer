@@ -2,8 +2,8 @@
 My recipe app is fairly simple. On launch, it will display the provided list of recipes to users with an image, name, and cuisine.
 By pressing on any of the recipes, the user will be redirected to a detail view that provides a larger image as well as the ability to access the recipe source or youtube video of the recipe.
 The images displayed are each retrieved and cached by a background actor as the user navigates through the app.
-<img src="/Assets/mainmenu.png" align="center" height="400" width="200">
-<img src="/Assets/detail.png" align="center" height="400" width="200">
+<img src="/Assets/mainenu.png" align="center" height="400" width="200">
+<img src="/Assets/detil.png" align="center" height="400" width="200">
 <img src="/Assets/link.png" align="center" height="400" width="200">
 
 ### Focus Areas: What specific areas of the project did you prioritize? Why did you choose to focus on these areas?

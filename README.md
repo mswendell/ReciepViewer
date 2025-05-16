@@ -1,5 +1,9 @@
 ### Summary:
-My recipe app is fairly simple. On launch, it will display the provided list of recipes to users with an image, name, and cuisine. By pressing on any of the recipes, the user will be redirected to a detail view that provides a larger image as well as the ability to access the recipe source or youtube video of the recipe. The images displayed are each retrieved and cached by a background actor as the user navigates through the app.
+My recipe app is fairly simple. On launch, it will display the provided list of recipes to users with an image, name, and cuisine.
+/Assets/mainmenu.png
+By pressing on any of the recipes, the user will be redirected to a detail view that provides a larger image as well as the ability to access the recipe source or youtube video of the recipe.
+/Assets/detail.png
+The images displayed are each retrieved and cached by a background actor as the user navigates through the app.
 
 ### Focus Areas: What specific areas of the project did you prioritize? Why did you choose to focus on these areas?
 I prioritized the need for the project to have cached information and the ability for it to load images only when needed. It took a while to figure out the implementation with 
